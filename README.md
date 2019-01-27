@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## DE 705: Interactive Data Visualization
 
-You can use the [editor on GitHub](https://github.com/kapadiaparth/InteractiveDataViz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+12 students from the M.Des in Interaction Design program took a 3-week long course in Interactive Data Visualization. Total duration of class was five and half days (Approx 30 hours) coupled up with a 3 day long (Approx 19 hours) Geo-Viz workshop conducted by Mr. Rasagy Sharma from Mapbox.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As the name suggests, the course emphasized on the interactive aspect of data visualization. Every student had to apply their knowledge and understanding of interface/interaction principles into creating meaningful interaction with information. The class did data collection, analysis and visualization as part of the coursework, and completed 3 assignments. Also certain additional assignments were done pertaining to Geo-Visualization.
 
 ### Markdown
 
