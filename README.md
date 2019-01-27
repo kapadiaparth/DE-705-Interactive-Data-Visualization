@@ -17,3 +17,7 @@ _3. correctly encoding it using the appropriate viz design principles, and_ <br 
 _4. using the selected tool to best achieve a coherent communication._ <br />
 
 Also students had to document and articulate their design process in the form of a Medium article.
+
+
+
+![Snapshot of tools]( https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/blob/master/Viz%20Blog/tools.jpeg )
