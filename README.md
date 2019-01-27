@@ -62,17 +62,17 @@ Students collected geographic data on the IIT Bombay campus and plotted them on 
 
 As a part of this 3 day long workshop, we mainly used two different approaches of learning. One is by critiquing an existing visualization and secondly by actually constructing a visualization.
 
-Day 1
-We learnt data visualization through the method of critiquing.
-[Geo-Viz critiques can be found here.](https://github.com/mapschool/course/issues/36)
+Day 1<br />
+We learnt data visualization through the method of critiquing.<br />
+[Geo-Viz critiques can be found here.](https://github.com/mapschool/course/issues/36)<br />
 
-Day 2
-[We experimented with making schematic maps of our hometowns.](https://github.com/mapschool/course/issues/37)
+Day 2<br />
+[We experimented with making schematic maps of our hometowns.](https://github.com/mapschool/course/issues/37)<br />
 
-Day 3
-[Visualization on earthquakes were made.](https://github.com/mapschool/course/issues/38)
+Day 3<br />
+[Visualization on earthquakes were made.](https://github.com/mapschool/course/issues/38)<br /><br /><br />
 
-_This is the second run of the course. Feedback, suggestions most welcome!_
+_This is the second run of the course. Feedback, suggestions most welcome!_<br />
 
 Venkatesh Rajamanickam | http://info-design-lab.github.io/
 
