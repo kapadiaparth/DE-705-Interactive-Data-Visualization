@@ -4,12 +4,9 @@
 
 As the name suggests, the course emphasized on the interactive aspect of data visualization. Every student had to apply their knowledge and understanding of interface/interaction principles into creating meaningful interaction with information. The class did data collection, analysis and visualization as part of the coursework, and completed 3 assignments. Also certain additional assignments were done pertaining to Geo-Visualization.
 
-### Markdown
+### Kerala Floods data visualization (Assignment 3)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Students were asked to look for suitable data sets related to the recent Kerala floods (2018). As a part of assignment every student was supposed to communicate an insight, observation, understanding, perspective or story through data.
 
 # Header 1
 ## Header 2
@@ -25,13 +22,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kapadiaparth/InteractiveDataViz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
