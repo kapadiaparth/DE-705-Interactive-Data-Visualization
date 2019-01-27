@@ -54,7 +54,7 @@ In preparation for assignment 3, to get up to speed on the tools available to vi
 12. [Processing](http://processingjs.org/) — Processing.js is a JavaScript library that sits on top of the Processing visual programming language. As every JavaSript library is, Processing.js is web oriented and lets you bring the Processing power to your web pages (Vishnu).<br />
 13. [Springy.js](http://getspringy.com/) — Springy is a force-directed graph layout algorithm. It means that springy uses some real-world physics to try and figure out how to show a network graph in a way that looks good (Angela).<br />
 
-## Open Street Map (Assignment 1)
+### Open Street Map (Assignment 1)
 
 Students collected geographic data on the IIT Bombay campus and plotted them on the OSM (Open Street Map). [This article](http://rohitg.in/2017/08/31/ContribOSM/) by Rohit Gupta documents the process of adding data to the OSM.
 
