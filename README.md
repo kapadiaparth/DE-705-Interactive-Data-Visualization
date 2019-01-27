@@ -54,5 +54,25 @@ In preparation for assignment 3, to get up to speed on the tools available to vi
 12. [Processing](http://processingjs.org/) — Processing.js is a JavaScript library that sits on top of the Processing visual programming language. As every JavaSript library is, Processing.js is web oriented and lets you bring the Processing power to your web pages (Vishnu).
 13. [Springy.js](http://getspringy.com/) — Springy is a force-directed graph layout algorithm. It means that springy uses some real-world physics to try and figure out how to show a network graph in a way that looks good (Angela).
 
+## Open Street Map (Assignment 1)
 
+Students collected geographic data on the IIT Bombay campus and plotted them on the OSM (Open Street Map). [This article](http://rohitg.in/2017/08/31/ContribOSM/) by Rohit Gupta documents the process of adding data to the OSM.
+
+## Geo- Visualization Workshop
+
+As a part of this 3 day long workshop, we mainly used two different approaches of learning. One is by critiquing an existing visualization and secondly by actually constructing a visualization.
+
+Day 1
+We learnt data visualization through the method of critiquing.
+[Geo-Viz critiques can be found here.](https://github.com/mapschool/course/issues/36)
+
+Day 2
+[We experimented with making schematic maps of our hometowns.](https://github.com/mapschool/course/issues/37)
+
+Day 3
+[Visualization on earthquakes were made.](https://github.com/mapschool/course/issues/38)
+
+_This is the second run of the course. Feedback, suggestions most welcome!_
+
+Venkatesh Rajamanickam | http://info-design-lab.github.io/
 
