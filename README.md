@@ -34,3 +34,25 @@ Also students had to document and articulate their design process in the form of
    10. [Data viz on Kerala flood](https://medium.com/@rambunctious.me.7/datavis-on-kerala-floods-2018-9c8ffe44b42f) by Angela Riang Simon<br />
    11. [Take on key events during Kerala floods (2018) by examining the state of reservoirs](https://medium.com/@pkapadia95/visualizing-the-state-of-idamalayar-and-idukki-reservoirs-during-kerala-floods-of-2018-c0709973bd79) by Parth Kapadia<br />
    12. [Interactive data visualization to compare the water release from dams during Kerala Flooding](https://medium.com/@ridhima.51/interactive-data-visualization-to-compare-the-water-release-from-dams-during-kerala-flooding-9500da12f911) by Ridhima Tapia<br />
+   
+   
+### Data Visualization Tools (Assignment 2) 
+
+In preparation for assignment 3, to get up to speed on the tools available to visualize, each student was assigned a visualization tool and was required to conduct a half-hour introductory tutorial-cum-demonstration of the tool for the rest of the class. This was done over 4 days.
+
+1. [Tableau Public](https://www.tableau.com/) — This is among the most popular, intuitive and user-friendly of today’s data visualization tools. Requires no coding (Kiran).
+2. [Chart.js](https://www.chartjs.org/) — Simple, flexible JavaScript charts (Annu).
+3. [RAW Graphs](https://rawgraphs.io/) — Copy/paste the relevant data directly from your spreadsheet program into RAW, choose a data visualization type, and set your parameters using a drag-and-drop interface. Each individual parameter or visual metric can be adjusted, and the interface is clean and intuitive, making it ideal for beginners (Thuli).
+4. [dygraphs](http://dygraphs.com/) — Another fast, flexible open source JavaScript charting library (Supriya).
+5. [Palladio](http://hdlab.stanford.edu/palladio/) — A good tool to visualize complex historical data which are often qualitative and incomplete in nature, and to build better understanding of the historical material through humanistic inquiry (Shikha).
+6. [Timeline.js](http://timeline.knightlab.com/) — This is a powerful free tool developed by Northwestern University’s Knight Lab that helps you create engaging, timeline-based visuals to show off your data. Requires no coding. (Jonathan).
+7. [Tiki-Toki](https://www.tiki-toki.com/) — Another web-based software to create interactive timelines (Jonathan).
+8. [Flourish](https://flourish.studio) — Simple yet powerful, good dataviz with minimum coding. (Ridhima).
+9. [Vega-lite](https://vega.github.io/vega-lite/) — A high-level grammar of interactive graphics (Enlin).
+10. [D3.js](https://d3js.org/) — If you know Javascript, and you want to create highly custom and interactive interactive data visualizations, the D3.js library is the best tool around. Most visualization that you see on my website are done using d3.js (Kuldeep).
+11. [Tangle](http://worrydream.com/Tangle/) — Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Excellent for instruction design and process explanation projects (Parth).
+12. [Processing](http://processingjs.org/) — Processing.js is a JavaScript library that sits on top of the Processing visual programming language. As every JavaSript library is, Processing.js is web oriented and lets you bring the Processing power to your web pages (Vishnu).
+13. [Springy.js](http://getspringy.com/) — Springy is a force-directed graph layout algorithm. It means that springy uses some real-world physics to try and figure out how to show a network graph in a way that looks good (Angela).
+
+
+
