@@ -74,5 +74,5 @@ Day 3<br />
 
 _This is the second run of the course. Feedback, suggestions most welcome!_<br />
 
-Venkatesh Rajamanickam | http://info-design-lab.github.io/
+Venkatesh Rajamanickam | [http://info-design-lab.github.io/](http://info-design-lab.github.io/)
 
