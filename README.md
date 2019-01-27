@@ -20,4 +20,4 @@ Also students had to document and articulate their design process in the form of
 
 
 
-![Snapshot of tools]( https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/blob/master/Viz%20Blog/tools.jpeg )
+![Snapshot of tools]( https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/blob/master/tools.jpeg )
