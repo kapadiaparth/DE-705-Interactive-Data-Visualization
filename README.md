@@ -20,7 +20,10 @@ Also students had to document and articulate their design process in the form of
 
 
 
-![Snapshot of tools](https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/master/tools.jpeg)
+![Snapshot of tools](https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/tools.jpeg)
+<img src="https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/Viz-Blog/tools.jpeg
+">
+
 
    1. [Did poor dam management lead to Kerala Floods?](https://medium.com/@rathodkuldeepsingh/did-poor-dam-management-lead-to-kerala-floods-f8c1452f26bb) by Kuldeep Singh Rathode<br />
    2. [Kerala 2018: Rainfall, Dams and floods](https://github.com/kapadiaparth/DE-705-Interactive-Data-Visualization/edit/master/README.md) by Supriya Dutta<br />
